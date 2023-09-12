@@ -1,3 +1,5 @@
+# Lines Collum Did : 1-5, 11-17, 28-30
+# Lines Jaqueline Did : 6-11,17-24,30-33
 class parking_garage():
     def __init__(self):
         self.tickets=10
